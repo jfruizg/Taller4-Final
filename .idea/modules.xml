@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Taller4-Final.iml" filepath="$PROJECT_DIR$/Taller4-Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javax-servlets.iml" filepath="$PROJECT_DIR$/javax-servlets.iml" />
     </modules>
   </component>
 </project>

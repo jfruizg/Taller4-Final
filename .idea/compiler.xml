@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="javax-servlets" />
         <module name="Taller4-Final" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="javax-servlets" target="1.8" />
       <module name="Taller4-Final" target="1.8" />
     </bytecodeTargetLevel>
   </component>
